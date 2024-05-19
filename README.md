@@ -3,6 +3,8 @@
 
 This repository contains a list of the assignments that were given as a part of the **Machine Learning(CSL7620)** course for **M.Tech AI**, first year at Indian Insitute of Technology, Jodhpur.
 
+*All the assignments has a report where the complete analysis of the assignment was done. Please refer to that for any further information*
+
 ## Assignment 1: Linear Regression
 
 In this assignment we had to implement **Linear regression** from scratch and use it on a synthetic dataset.
